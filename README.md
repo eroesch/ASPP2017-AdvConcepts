@@ -12,6 +12,8 @@ The repository also contains exercises, with and without solutions, which I borr
 I hope you enjoy it! By all means get in touch! :)
 
 Etienne
+
+
 Twitter: [@etienneroesch][2] | www: [http://etienneroes.ch][3] | Github: [@eroesch][4]
 
 

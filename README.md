@@ -1,4 +1,4 @@
-# ASPP2017 - Iterators, Generators, Decorators and Context Managers (and other fun stuff to handle data and resources properly)
+# ASPP2017 - Iterators, Generators, Decorators & Context Managers (and other fun stuff to handle data and resources properly)
 
 This notebook/presentation has been prepared for the 2017 edition of [http://python.g-node.org][1], the renowned Advanced Scientific Programming in Python summer school (Happy 10th Anniversary!!). I gratefully acknowledge the efforts of the entire Python community, which produced great documentation I largely consumed to create this notebook; a list of which can be found at the end of the notebook. If I have missed anyone, apologies, let me know and I'll add you to the list!
 
